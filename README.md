@@ -1,3 +1,3 @@
 # phone-ui
 
-![](./images/image.png)
+![](phoneui.jpg)
